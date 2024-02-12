@@ -12,7 +12,3 @@ def age():
 
 age()
 
-def helloWorld():
-	print(‘Hello World’)
-
-helloWorld()
