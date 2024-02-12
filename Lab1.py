@@ -11,3 +11,8 @@ def age():
     print('You are ' + str(int(age)) + ' years old.')
 
 age()
+
+def helloWorld():
+	print(‘Hello World’)
+
+helloWorld()
